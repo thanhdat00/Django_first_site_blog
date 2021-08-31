@@ -1,0 +1,5 @@
+{
+    "html.validate.scripts": false,
+    "html.suggest.html5": false,
+    "html.format.enable": false
+}
